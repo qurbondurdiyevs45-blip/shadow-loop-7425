@@ -1,0 +1,15 @@
+{
+  "name": "shadow-loop-7425",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2112,
+    "createdAt": "2026-07-12T10:57:39.915Z"
+  }
+}
